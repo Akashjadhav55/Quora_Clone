@@ -34,4 +34,6 @@ function removeFn(ele){
     data = data.filter(e => e!=ele)
     append(data)
 }
+function AddDetail(){
 
+}
