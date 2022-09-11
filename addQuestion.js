@@ -35,5 +35,5 @@ function removeFn(ele){
     append(data)
 }
 function AddDetail(){
-
+        let add = ;
 }
